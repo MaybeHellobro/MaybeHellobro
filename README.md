@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋  
+I'm a curious mind passionate about building **AI-driven tools** that make life easier, smarter, and more connected.  
 
-<!--
-**MaybeHellobro/MaybeHellobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Current Projects**  
+- **[OdooAI](https://odooai.netlify.app)** – A next-gen AI platform focused on emotional intelligence and productivity.  
+- **[odoobeast](https://pypi.org/project/odoobeast/)** – A Python library powering OdooAI and other upcoming projects.  
 
-Here are some ideas to get you started:
+💡 **What I Love**  
+- Solving complex problems with simple code  
+- Exploring AI, automation, and productivity ecosystems  
+- Contributing to open source and learning from the global dev community  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect With Me**  
+- [GitHub](https://github.com/MaybeHellobro)  
+- [PyPI](https://pypi.org/project/odoobeast/)  
+
+⚡ **Fun Fact**  
+I believe every great idea starts as "impossible" until someone builds it.  
